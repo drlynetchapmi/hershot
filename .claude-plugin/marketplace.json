@@ -1,0 +1,13 @@
+{
+  "name": "hershot-marketplace",
+  "owner": {
+    "name": "Lyne Tchapmi"
+  },
+  "plugins": [
+    {
+      "name": "hershot",
+      "source": "./",
+      "description": "HerShot: frontier AI research mentorship, built with Claude."
+    }
+  ]
+}

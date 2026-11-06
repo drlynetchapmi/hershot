@@ -1,0 +1,14 @@
+{
+  "name": "hershot",
+  "version": "0.1.0",
+  "description": "Claude mediates research mentorship: the mentee works on her own machine, Claude captures her understanding and misconceptions, drafts a one-page report plus suggested feedback for the mentor, and relays the mentor's corrections back as tasks.",
+  "author": {
+    "name": "Lyne Tchapmi"
+  },
+  "keywords": [
+    "mentorship",
+    "research",
+    "machine-learning",
+    "education"
+  ]
+}
